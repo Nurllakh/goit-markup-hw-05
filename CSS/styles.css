@@ -366,8 +366,6 @@ img {
 }
 .description {
     padding: 63px 24px;
-    align-items: center;
-    text-align: center;
     position: absolute;
     display: flex;
     top: 50%;
